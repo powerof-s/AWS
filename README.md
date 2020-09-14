@@ -1,5 +1,5 @@
 # AWS
-This small code will help you find the running | pending EC2 and RDS instances from AWS
+This small code will help you find the running | pending EC2 and RDS instances from AWS.
 It is written in Bash Script and can come very handy, if you want to monitor your resrouces considering the billing aspect.
 
 Assumption:
